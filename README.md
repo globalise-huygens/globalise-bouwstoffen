@@ -55,3 +55,6 @@ for prefix in $prefixes; do
     mv "$sourcedir/$prefix"* "$folder_path/"
 done
 ```
+
+### Notes on use
+* contains footnotes
